@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "author": "Daniel Ruiz <druizcallado@gmail.com>",
-  "homepage": "/projects/pool-statistics",
+  "homepage": ".",
   "engines": {
     "node": "18.0.0"
   },
