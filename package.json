@@ -5,7 +5,7 @@
   "author": "Daniel Ruiz <druizcallado@gmail.com>",
   "homepage": "/projects/pool-statistics",
   "engines": {
-    "node": "16.16.0"
+    "node": "16.8.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
